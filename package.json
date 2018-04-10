@@ -1,0 +1,25 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bigi": "^1.4.2",
+    "bitcoinjs-lib": "^3.3.2",
+    "bs58check": "^2.1.1",
+    "buffer": "^5.1.0",
+    "ecdsa": "^0.7.0",
+    "pbkdf2": "^3.0.14",
+    "readline-sync": "^1.4.9",
+    "scrypt-js": "^2.0.3",
+    "scryptsy": "^2.0.0",
+    "secp256k1": "^3.5.0",
+    "sha256": "^0.2.0",
+    "unorm": "^1.4.1"
+  }
+}
